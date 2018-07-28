@@ -70,7 +70,5 @@ img:hover {
 
 .page1-image1
 {
-  position: relative;
-  top:0;
-  right:0;
+  float:right;
 }
