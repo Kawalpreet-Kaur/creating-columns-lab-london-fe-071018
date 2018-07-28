@@ -20,7 +20,8 @@ h4 {
   width: fit-content;
   display: inline-block;
   padding: 5px;
-  margin: auto;
+  margin: 20px 0 0 0;
+  position: relative;
 }
 
 img:hover {
